@@ -1,4 +1,5 @@
 -- Colocar as zonas no Global, já que são usadas em diversos arquivos
+--Testing git
 
 local deckLoja
 local lastCard
